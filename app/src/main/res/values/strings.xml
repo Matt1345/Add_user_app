@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Random app</string>
+    <string name="tab_text_1">Add user</string>
+    <string name="tab_text_2">User list</string>
+
+
+    <string name="template_firstname">John</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="template_lastname">Wick</string>
+    <string name="sex">Sex</string>
+    <string name="template_sex">M or F</string>
+    <string name="age">Age</string>
+    <string name="template_age">18</string>
+    <string name="nationality">Nationality</string>
+    <string name="template_nationality">Croatian</string>
+    <string name="id_number">ID number</string>
+    <string name="template_idnumber">3910391023</string>
+    <string name="birth_place">Birth place</string>
+    <string name="template_birth_place">Zagreb</string>
+    <string name="place_of_residence">Place of residence</string>
+    <string name="template_place_of_residence">Bucharest</string>
+    <string name="zip_code">ZIP code</string>
+    <string name="template_zip_code">10362</string>
+    <string name="zodiac_sign">Zodiac sign</string>
+    <string name="template_zodiac_sign">Taurus</string>
+    <string name="height">Height(in cm)</string>
+    <string name="template_height">178</string>
+    <string name="weight">Weight(in kg)</string>
+    <string name="template_weight">69</string>
+    <string name="add">Add</string>
+    <string name="title">30sp</string>
+    <string name="small">20sp</string>
+
+</resources>
