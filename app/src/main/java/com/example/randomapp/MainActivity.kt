@@ -23,8 +23,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         tabLayout = binding.tabLayout
         viewPager = binding.viewPager
-
-
         viewPager.adapter = ViewPagerAdapter(this)
 
         TabLayoutMediator(tabLayout, viewPager) { tab, index ->
